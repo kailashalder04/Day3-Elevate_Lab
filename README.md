@@ -44,11 +44,11 @@ Target Variable: price
 
 ## 📊 Model Evaluation Metrics
 
-MAE (Mean Absolute Error) – Measures average absolute prediction error
+  MAE (Mean Absolute Error) – Measures average absolute prediction error
 
-MSE (Mean Squared Error) – Penalizes larger errors
+  MSE (Mean Squared Error) – Penalizes larger errors
 
-R² Score – Shows how well features explain target variance
+  R² Score – Shows how well features explain target variance
 
 ## 📈 Generated Graphs
 
@@ -56,19 +56,20 @@ R² Score – Shows how well features explain target variance
 
 Shows model prediction performance.
 
-![actual_vs_predicted](actual_vs_predicted.png)
+![actual_vs_predicted](output/actual_vs_predicted.png)
 
 ### 2️⃣ Residual Plot
 
 Helps check if residuals are randomly distributed.
 
-![residual_plot](Output/residual_plot.png)
+![residual_plot](output/residual_plot.png)
 
 ### 3️⃣ Correlation Matrix
 
 Displays relationships between variables.
 
-![correlation_matrix](Output/correlation_matrix.png)
+![correlation_matrix](output/correlation_matrix.png)
+
 
 ## 📌 Key Observations
 
