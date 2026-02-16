@@ -34,13 +34,13 @@ Target Variable: price
 
 5. Evaluated using:
 
-6. MAE
+  * MAE
+    
+  * MSE
 
-7. MSE
+  * R² Score
 
-8. R² Score
-
-9. Visualized results
+6. Visualized results
 
 ## 📊 Model Evaluation Metrics
 
